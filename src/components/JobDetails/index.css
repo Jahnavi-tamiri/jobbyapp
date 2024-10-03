@@ -1,0 +1,29 @@
+.skills-ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.skills {
+  display: flex;
+  padding: 20px;
+}
+.skillimg {
+  width: 50px;
+}
+.detailcard {
+  padding: 20px;
+  margin: 50px;
+  background-color: #272727;
+  border-radius: 15px;
+}
+.life {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}

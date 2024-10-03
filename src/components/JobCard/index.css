@@ -1,0 +1,41 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fail-view-img {
+  width: 30vw;
+}
+.bg-container {
+  background-color: black;
+  height: 88vh;
+  color: white;
+  overflow-x: scroll;
+}
+.search-icon {
+  margin: 9px;
+}
+.searchbtn {
+  align-self: center;
+  border: 0px;
+  background-color: #7e858e;
+}
+.search {
+  display: flex;
+  padding: 10px;
+}
+.input-search {
+  margin: 0px;
+  border-radius: 3px;
+  height: fit-content;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+}
+.jobs {
+  display: flex;
+}
+.jobitem {
+  width: 70vw;
+}

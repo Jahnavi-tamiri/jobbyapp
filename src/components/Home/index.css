@@ -1,0 +1,23 @@
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 88vh;
+  padding: 30px;
+  color: white;
+  background-size: cover;
+  font-family: Roboto;
+  font-size: large;
+}
+.button-jobs {
+  background-color: #6366f1;
+  color: white;
+  height: 40px;
+  align-self: center;
+  width: 10vw;
+  border: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.parahome {
+  padding: 20px;
+  padding-left: 0px;
+}

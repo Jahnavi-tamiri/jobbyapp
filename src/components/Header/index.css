@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px;
+}
+.nav-container {
+  background-color: #272727;
+}
+.logout {
+  background-color: #6366f1;
+  color: white;
+  height: 35px;
+  align-self: center;
+  width: 10vw;
+  border: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+  font-size: 20px;
+}
+.links-container {
+  color: white;
+  text-decoration: none;
+  padding-right: 10px;
+  align-self: center;
+}
+.logo {
+  width: 8vw;
+  align-self: center;
+  padding-top: 9px;
+}
+
+ul {
+  display: flex;
+}
